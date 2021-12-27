@@ -29,3 +29,8 @@ String hola="Hola Mundo";
 System.Out.Println(hola);
 
 ```
+
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
